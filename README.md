@@ -1,1 +1,1 @@
-# microsoft-intro-github-copilot-main
+# microsoft-intro-github-copilot
